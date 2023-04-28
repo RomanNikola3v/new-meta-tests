@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef3606b1-d4dc-4e03-9882-db6a9923fa3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots_cyber.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots_kz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots_mma.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots_sport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots_telecom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Helpers/GraphqlTypesRequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Helpers/PageMeta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Helpers/SoupPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Helpers/TurboFeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Helpers/gql_valid_responses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Pages/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Pages/NewsPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Pages/Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Pages/TipsPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/robots/robots_cyber.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/robots/robots_kz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/robots/robots_mma.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/robots/robots_sport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/robots/robots_telecom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/robots/test_robots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/rss/rss_news_content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/rss/test_feed_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/rss/test_rss_news_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/rss/test_rss_news_data_kz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/rss/test_rss_news_dzen_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/sitemap/test_metanews.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/sitemap/test_sitemaps_xml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/prod/yandex_metrics/test_yandex_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/admin/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/admin/test_create_news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/admin/test_create_tips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/amp/amp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/amp/test_amp_presented.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/amp/validation-tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/gql/test_gqltryouts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/hreflangs/ta.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/stage/hreflangs/test_metatags_unchanged_ta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/TODO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/dddd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/response_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/speed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash/test_first_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LSVqQBHJi00ibj5vZtGoUZlkV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/romannikolaev/AquaProjects/meta",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "selenium.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tests/prod/robots" />
+      <recent name="$PROJECT_DIR$/tests/Helpers" />
+      <recent name="$PROJECT_DIR$/tests/prod/rss" />
+      <recent name="$PROJECT_DIR$/tests/stage/rss" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trash" />
+      <recent name="$PROJECT_DIR$/tests/prod/rss" />
+      <recent name="$PROJECT_DIR$/tests/prod" />
+      <recent name="$PROJECT_DIR$/tests/prod/sitemap" />
+      <recent name="$PROJECT_DIR$/tests/stage/hreflangs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_robots.test_robots_telecom">
+    <configuration name="validation-tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/stage/amp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/stage/amp/validation-tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_amp_presented.test_amp_tag_on_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="meta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/stage/amp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_amp_presented.test_amp_tag_on_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_robots.test_robots_kz" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="meta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/prod/robots" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_robots.test_robots_kz&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_robots.test_robots_telecom" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="meta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/prod/robots" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_robots.test_robots_telecom&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for trash.test_first_test" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="meta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/Python" />
+      <option name="SDK_NAME" value="Python 3.8 (meta)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;-n 5&quot;" />
+      <option name="_new_target" value="&quot;trash.test_first_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in rss" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="meta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/prod/rss" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/prod/rss&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_robots.test_robots_telecom" />
+        <item itemvalue="Python tests.Python tests for test_robots.test_robots_kz" />
+        <item itemvalue="Python tests.Python tests in rss" />
+        <item itemvalue="Python tests.Python tests for test_amp_presented.test_amp_tag_on_page" />
+        <item itemvalue="Python.validation-tool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastUrl" value="https://metaratings.ru/bonuses/betsiti-uvelichivaet-privetstvennyy-bonus-do-100-000-rubley/" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef3606b1-d4dc-4e03-9882-db6a9923fa3a" name="Changes" comment="" />
+      <created>1675864663404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675864663404</updated>
+      <workItem from="1675864663407" duration="3144000" />
+      <workItem from="1678708662062" duration="12975000" />
+      <workItem from="1678800326880" duration="42907000" />
+      <workItem from="1679911451636" duration="9000" />
+      <workItem from="1679911582818" duration="41266000" />
+      <workItem from="1681900148387" duration="4000" />
+      <workItem from="1681900161509" duration="39012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
