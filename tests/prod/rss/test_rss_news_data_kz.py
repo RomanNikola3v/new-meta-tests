@@ -34,8 +34,6 @@ def test_rss_fields_kz(params):
     assert len(authors[params].text) > 5
     assert genres[params].text == 'message' or genres[params].text == 'article'
     assert len(texts[params].text) > 100
-    # assert '>' not in texts[params].text
-    # assert '<' not in texts[params].text
     isset = parsedate(pubDates[params].text)
     print(type(isset))
     assert type(isset) is tuple
